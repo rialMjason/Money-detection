@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#1976D2</color>
+    <color name="primaryDarkColor">#1565C0</color>
+    <color name="accentColor">#FF9800</color>
+    <color name="positiveCashflow">#43A047</color>
+    <color name="negativeCashflow">#E53935</color>
+    <color name="backgroundColor">#F5F5F5</color>
+</resources>
